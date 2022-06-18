@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    // 追加
+    // https://fwywd.com/tech/next-base-url
+    "baseUrl": "/"
+  }
+}
