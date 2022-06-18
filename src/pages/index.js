@@ -11,12 +11,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div class="hero min-h-screen bg-gradient-to-br from-gray-600 to-red-300">
-        <div class="hero-overlay bg-opacity-60"></div>
-        <div class="hero-content text-center text-neutral-content">
-          <div class="max-w-md">
-            <h1 class="mb-5 text-5xl font-bold">Crisis</h1>
-            <p class="mb-5">
+      <div className="hero min-h-screen bg-gradient-to-br from-gray-600 to-red-300">
+        <div className="hero-overlay bg-opacity-60"></div>
+        <div className="hero-content text-center text-neutral-content">
+          <div className="max-w-md">
+            <h1 className="mb-5 text-5xl font-bold">Crisis</h1>
+            <p className="mb-5">
               Free horror RPG game.
               <br />
               Made by tamagoez for hobby.
@@ -25,7 +25,7 @@ export default function Home() {
               <Link href="./dl/" passHref>
                 <a className="btn btn-secondary hover:animate-pulse">Get App</a>
               </Link>
-              <button class="btn btn-secondary hover:animate-pulse">
+              <button className="btn btn-secondary hover:animate-pulse">
                 Play on WEB
               </button>
             </div>
