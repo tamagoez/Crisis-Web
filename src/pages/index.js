@@ -18,8 +18,10 @@ export default function Home() {
             <h1 className="mb-5 text-5xl font-bold">Crisis</h1>
             <p className="mb-5">
               RPGホラーゲーム
+              <div className="divider" />
+              リアは中学一年生の2週間目を過ごそうとしていた。
               <br />
-              リアは中学一年生の2週間目を過ごそうとしていたが彼女はこの世の不条理から逃れるために自殺を図った。
+              しかし彼女はこの世の不条理から逃れるために自殺を図った。
               <br />
               リアの人生の岐路は全てあなたの手に委ねられている。
             </p>
