@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
       <div className="min-h-screen">
         <Component {...pageProps} />
       </div>
-      <div className="flex justify-center bg-gray-400 py-5 text-white">
+      <div className="flex justify-center bg-gray-200 py-4 text-black">
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
