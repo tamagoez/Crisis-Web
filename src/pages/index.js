@@ -18,7 +18,7 @@ export default function Home() {
             <h1 className="mb-5 text-5xl font-bold">Crisis</h1>
             <p className="mb-5">
               RPGホラーゲーム
-              <div className="divider" />
+              <div className="divider bg-white" />
               リアは中学一年生の2週間目を過ごそうとしていた。
               <br />
               しかし彼女はこの世の不条理から逃れるために自殺を図った。
